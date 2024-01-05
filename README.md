@@ -14,13 +14,13 @@
 
 <spacer type="vertical" height="50"> ㅤ </spacer>  
 
-<img align = "left" src ="https://user-images.githubusercontent.com/81184255/217659755-8c93af8e-b9c4-42b3-8d74-10bafa9728f1.png" width = "90">
+<img align = "left" src ="https://user-images.githubusercontent.com/81184255/217659755-8c93af8e-b9c4-42b3-8d74-10bafa9728f1.png" width = "80">
 
 <a href= "https://gist.github.com/AndreiMoraru123">
   <img align = "left" src = "https://skillicons.dev/icons?i=tensorflow,neovim,py,opencv,pytorch&perline=5&theme=dark"
 </a> 
   
-<img align = "left" src ="https://user-images.githubusercontent.com/81184255/210759932-e7fc0521-89e8-499d-89cd-59db96d53753.png" width = "110">
+<img align = "left" src ="https://user-images.githubusercontent.com/81184255/210759932-e7fc0521-89e8-499d-89cd-59db96d53753.png" width = "100">
 
 ![terminator_on_fire](https://github.com/AndreiMoraru123/AndreiMoraru123/assets/81184255/ba637908-eaa9-4554-aa8c-1c761611fa0b)
   

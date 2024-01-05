@@ -17,7 +17,7 @@
 <img align = "left" src ="https://user-images.githubusercontent.com/81184255/217659755-8c93af8e-b9c4-42b3-8d74-10bafa9728f1.png" width = "90">
 
 <a href= "https://gist.github.com/AndreiMoraru123">
-  <img align = "left" src = "https://skillicons.dev/icons?i=tensorflow,neovim,py,pytorch&perline=4&theme=dark"
+  <img align = "left" src = "https://skillicons.dev/icons?i=tensorflow,neovim,py,opencv,pytorch&perline=5&theme=dark"
 </a> 
   
 <img align = "left" src ="https://user-images.githubusercontent.com/81184255/210759932-e7fc0521-89e8-499d-89cd-59db96d53753.png" width = "110">

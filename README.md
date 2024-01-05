@@ -20,7 +20,7 @@
   <img align = "left" src = "https://skillicons.dev/icons?i=tensorflow,neovim,py,opencv,pytorch&perline=5&theme=dark"
 </a> 
   
-<img align = "left" src ="https://user-images.githubusercontent.com/81184255/210759932-e7fc0521-89e8-499d-89cd-59db96d53753.png" width = "100">
+<img align = "left" src ="https://user-images.githubusercontent.com/81184255/210759932-e7fc0521-89e8-499d-89cd-59db96d53753.png" width = "90">
 
 ![terminator_on_fire](https://github.com/AndreiMoraru123/AndreiMoraru123/assets/81184255/ba637908-eaa9-4554-aa8c-1c761611fa0b)
   

@@ -8,7 +8,7 @@
 
 <!-- &radfasf&arasfda -->
 
-<img align = "left" src="https://user-images.githubusercontent.com/81184255/214642439-cdf9c4c8-ffd6-486d-a9be-40db5ad2a396.png" width="340">
+<img align = "left" src="https://user-images.githubusercontent.com/81184255/214642439-cdf9c4c8-ffd6-486d-a9be-40db5ad2a396.png" width="320">
 
 &nbsp;
 

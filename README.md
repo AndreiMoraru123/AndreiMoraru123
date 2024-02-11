@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/AndreiMoraru123/NeedForScenes">
-  <img align="top-right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndreiMoraru123&theme=ayu-mirage&hide=jupyter%20notebook,tex,shaderlab,hlsl,html&layout=donut" />
+  <img align="top-right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndreiMoraru123&theme=ayu-mirage&hide=jupyter%20notebook,tex,shaderlab,hlsl&layout=donut" />
 </a>
 
 <img align = "left" src="https://user-images.githubusercontent.com/81184255/214642439-cdf9c4c8-ffd6-486d-a9be-40db5ad2a396.png" width="330">

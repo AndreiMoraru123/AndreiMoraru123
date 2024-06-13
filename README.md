@@ -6,7 +6,7 @@
 &nbsp;
 
 <a href= "https://gist.github.com/AndreiMoraru123">
-  <img align = "left" src = "https://skillicons.dev/icons?i=tensorflow,anaconda,py,opencv,pytorch,neovim&perline=7&theme=dark"
+  <img align = "left" src = "https://skillicons.dev/icons?i=neovim,tensorflow,py,opencv,pytorch,nix&perline=7&theme=dark"
 </a> 
   
 
